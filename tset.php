@@ -5,6 +5,7 @@
 <title>PHPサンプル</title>
 </head>
 <body>
+<p><?php echo 'add test' ?></p>
 <p><?php echo 'Hello, World!' ?></p>
 </body>
 </html>
