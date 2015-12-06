@@ -6,6 +6,8 @@
 </head>
 <body>
 <p><?php echo 'add test' ?></p>
+<p><?php echo 'add test2' ?></p>
+<p><?php echo 'add test3' ?></p>
 <p><?php echo 'Hello, World!' ?></p>
 </body>
 </html>
